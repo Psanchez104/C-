@@ -1,5 +1,1 @@
-# C-
-My C++ Projects
-
-Here is the list of my c++ projects
-
+here i created a recursive program that solves factorials
